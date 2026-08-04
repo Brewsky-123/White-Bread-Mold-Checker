@@ -9,11 +9,15 @@ This Ai model runs Image-net to find out if bread has mold in it. This model wil
 # The Data set
 
 This model was trained based off of the images in this data set: https://data.mendeley.com/datasets/2cymbb4gt4/1
-This dataset containes images of healthy and moldy bread through all angles, so no matter which angle the picture is taken, the Ai can tell.
+This dataset containes over 500 images of healthy and moldy bread through all angles, so no matter which angle the picture is taken, the Ai can tell.
+
+# Image Net
+
+This model is trained with the neral network called image-net. This network allows the Ai to detect images and classify those images with certain labels- in my case good or bad bread.
 
 # The Algorithm
 
-After being trained, this model was tested and is very accurate.
+Once the data set was imported, I ran a long python code to sort the images into 3 folders. Test, train, and validate. I then trained this model using this training script: python3 train.py --model-dir=models/bread_set data/bread_set. I ran this with the default epochs, 35.
 
 
 # How to run
