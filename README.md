@@ -4,12 +4,12 @@
 
 # What it does
 
-This Ai model runs Image-net to find out if bread has mold in it. This model will helps people as it can identify mold very accuratly as it will stop people from accidentily eating moldy bread.
+This Ai model runs Image-net to find out if white bread has mold in it. This model will help people as it can identify mold very accuratly as it will stop people from accidentily eating moldy bread.
 
 # The Data set
 
 This model was trained based off of the images in this data set: https://data.mendeley.com/datasets/2cymbb4gt4/1
-This dataset containes over 500 images of healthy and moldy bread through all angles, so no matter which angle the picture is taken, the Ai can tell.
+This dataset containes over 500 images of healthy and moldy white bread through all angles, so no matter which angle the picture is taken, the Ai can tell.
 
 # Image Net
 
