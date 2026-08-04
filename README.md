@@ -23,7 +23,7 @@ Once the data set was imported, I ran a long python code to sort the images into
 # How to run
 
 
-    1. Insert your image into: jetson-infrence/python/training/classification/data/Bread_set/test/Test_Here
+    1. Insert your image (via drag and drop) into: jetson-infrence/python/training/classification/data/Bread_set/test/Test_Here
 
     2. In terminal: Cd jetson-inference/python/training/classification
 
