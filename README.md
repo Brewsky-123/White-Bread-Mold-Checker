@@ -22,12 +22,15 @@ Once the data set was imported, I ran a long python code to sort the images into
 
 # How to run
 
-1. Insert your image into: jetson-infrence/python/training/classification/data/Bread_set/test/Test_Here
 
-2. In terminal: Cd jetson-inference/python/training/classification
+    1. Insert your image into: jetson-infrence/python/training/classification/data/Bread_set/test/Test_Here
 
-3. Run this command: imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/Test_Here/Image name.(Jpg,png, other image file) Save_name.jpg
+    2. In terminal: Cd jetson-inference/python/training/classification
 
-4. Modify Image name and classification as well as what you want to save it under.
+    3. Then run: NET=models/Bread_set DATASET=data/Bread_set
 
-5. Click your new image and in the top left corner there will be the Ai's awnser 
+    4. Run this command: imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/Test_Here/Image name.(Jpg,png, other image file) Save_name.jpg
+
+    5. Modify Image name and classification as well as what you want to save it under.
+
+    6. Click your new image and in the top left corner there will be the Ai's awnser 
