@@ -4,7 +4,7 @@
 
 # What it does
 
-This Ai model runs Image-net to find out if white bread has mold in it. This model will help people as it can identify mold very accuratly as it will stop people from accidentily eating moldy bread.
+This Ai model runs Image-net to find out if white bread has mold in it. This model will help people as it can identify mold very accuratly, and it will stop people from accidentily eating moldy bread.
 
 # The Data set
 
@@ -17,7 +17,7 @@ This model is trained with the neral network called image-net. This network allo
 
 # The Algorithm
 
-Once the data set was imported, I ran a long python code to sort the images into 3 folders. Test, train, and validate. I then trained this model using this training script: python3 train.py --model-dir=models/bread_set data/bread_set. I ran this with the default epochs, 35.
+Once the data set was imported, I ran a long python code to sort the images into 3 folders. Test, train, and validate. I then trained this model using this training script: python3 train.py --model-dir=models/bread_set data/bread_set. I ran this with the default epochs (image cycles), 35.
 
 
 # How to run
