@@ -13,7 +13,7 @@ This dataset containes over 500 images of healthy and moldy white bread through 
 
 # Image Net
 
-This model is trained with the neral network called image-net. This network allows the Ai to detect images and classify those images with certain labels- in my case good or bad bread.
+This model is trained with the neral network called image-net. This network allows the Ai to detect images and classify those images with certain labels- in my case good or bad bread. Example image: https://drive.google.com/file/d/1EvOuMW2v6XGsds1MxbbhdJrAOH3kgT6W/view?usp=sharing
 
 # The Algorithm
 
