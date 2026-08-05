@@ -23,6 +23,7 @@ Once the data set was imported, I ran a long python code to sort the images into
 # How to run
 
 
+
     1. Insert your image (via drag and drop) into: jetson-infrence/python/training/classification/data/Bread_set/test/Test_Here
 
     2. In terminal run command: cd jetson-inference/python/training/classification
@@ -34,3 +35,7 @@ Once the data set was imported, I ran a long python code to sort the images into
     5. Modify Image name and classification as well as what you want to save it under.
 
     6. Click your new image and in the top left corner there will be the Ai's awnser 
+
+# Video Guide
+
+https://drive.google.com/file/d/1hhyPMkI-9dEUJW663SWmjSz1AeRtl9Cv/view?usp=sharing
