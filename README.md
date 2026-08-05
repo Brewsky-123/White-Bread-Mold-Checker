@@ -25,7 +25,7 @@ Once the data set was imported, I ran a long python code to sort the images into
 
     1. Insert your image (via drag and drop) into: jetson-infrence/python/training/classification/data/Bread_set/test/Test_Here
 
-    2. In terminal run command: Cd jetson-inference/python/training/classification
+    2. In terminal run command: cd jetson-inference/python/training/classification
 
     3. Run command: NET=models/Bread_set DATASET=data/Bread_set
 
