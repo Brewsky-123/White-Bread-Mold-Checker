@@ -39,3 +39,6 @@ Once the data set was imported, I ran a long python code to sort the images into
 # Video Guide
 
 https://drive.google.com/file/d/1hhyPMkI-9dEUJW663SWmjSz1AeRtl9Cv/view?usp=sharing
+
+# Documentaion
+https://drive.google.com/drive/folders/1BIRU6vex8Otx-OYNA-jgABBV-Hp8XmuO?usp=sharing
