@@ -19,12 +19,8 @@ This model is trained with the neural network called image-net. This network all
 
 Once the data set was imported, I ran a long python code to sort the images into 3 folders. Test, train, and validate. I then trained this model using this training script: python3 train.py --model-dir=models/bread_set data/bread_set. I ran this with the default epochs (image cycles), 35.
 
-
-# File structure
-
 # File Structure
 Project Files
-
         
 |    models                                                                                                                                                                                                                                     
 |        -Bread_set                                                                                                                                                                                                                           
