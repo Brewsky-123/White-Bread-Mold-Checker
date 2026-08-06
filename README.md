@@ -22,16 +22,18 @@ Once the data set was imported, I ran a long python code to sort the images into
 
 # File structure
 
+# File Structure
 Project Files
 
-| models
-| -Bread_set
-| -------------tensorboard
-| ---------------------------events.out.tfevents
-| -checkpoint.pth.tar
-| -labels.txt
-| -model_best.pth.tar
-| -resnet18.onnx
+        
+|    models                                                                                                                                                                                                                                     
+|        -Bread_set                                                                                                                                                                                                                           
+|              -------------tensorboard                                                                                                                                                                                                                    
+|                  ---------------------------events.out.tfevents                                                                                                                                                                                                       
+|    -checkpoint.pth.tar                                                                                                                                                                                                                         
+|    -labels.txt                                                                                                                                                                                                                               
+|    -model_best.pth.tar                                                                                                                                                                                                                        
+|    -resnet18.onnx
 
 # How to run
 
